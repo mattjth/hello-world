@@ -1,2 +1,4 @@
 # hello-world
-Setting up github acc, standardised hello world intro!
+Setting up github account, standardised hello world intro!
+
+First (when do I start neural nets?!)
